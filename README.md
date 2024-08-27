@@ -6,6 +6,8 @@
 
 * By automating and simplifying the ticket booking process, this system aims to enhance the convenience and efficiency of bus travel, catering to the needs of modern-day travelers who prefer online booking over traditional methods
 
+  ## Functionality
+
 * Booking Tickets
     - Select Bus: Users can choose from different bus companies (e.g., Patel Tours and Travels, Falcon Travels, GSRTC).
     - Choose Number of Seats: Users can select the number of seats they wish to book in a single transaction.
